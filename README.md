@@ -5,4 +5,4 @@ This is a basic example using this framework due to a technical interview, this 
 ## Links
 
 Last update: 
-https://vue-example-1.surge.sh/
+https://vue-example-2.surge.sh
