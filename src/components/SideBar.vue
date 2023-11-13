@@ -15,11 +15,10 @@ export default defineComponent({
         <h2 class="sm:text-left font-bold text-sm text-white sm:mb-6 mb-10">MENU</h2>
         <ul class="sm:text-left">
             <li><font-awesome-icon icon="fa-solid fa-house" />Dashboard</li>
-            <li><font-awesome-icon icon="fa-solid fa-cart-shopping" />Pedidos</li>
+            <li><font-awesome-icon icon="fa-solid fa-cart-shopping" />Orders</li>
             <li><font-awesome-icon icon="fa-solid fa-users" />Clientes</li>
-            <li><font-awesome-icon icon="fa-solid fa-table" />Catalogo</li>
-            <li><font-awesome-icon icon="fa-solid fa-truck-fast" />Proveedores</li>
-            <li> Progress</li>
+            <li><font-awesome-icon icon="fa-solid fa-table" />Tasks</li>
+            <li><font-awesome-icon icon="fa-solid fa-truck-fast" />Finance</li>
         </ul>
     </div>
 </template>
